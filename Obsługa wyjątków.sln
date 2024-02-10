@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obsługa wyjątków", "Obsługa wyjątków.csproj", "{A396CC29-6CB0-4AD3-87F8-7E155C601D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A396CC29-6CB0-4AD3-87F8-7E155C601D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A396CC29-6CB0-4AD3-87F8-7E155C601D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A396CC29-6CB0-4AD3-87F8-7E155C601D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A396CC29-6CB0-4AD3-87F8-7E155C601D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950E10DC-C1AA-4C22-89A9-55B00A117B5F}
+	EndGlobalSection
+EndGlobal
